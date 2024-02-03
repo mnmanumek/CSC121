@@ -1,0 +1,7 @@
+To compile (and run) your code, use the Run Build Task command from the Terminal menu, or press 
+
+
+Shift+Command+B 			 
+
+
+This will execute the default build task you’ve set up.
